@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Lucimar1985/count.svg?"  />
+</div>
+
+###
+
 ### Olá Bem Vindo, Sou Lucimar Simione 👋
 ![](https://github.com/lucimar1985/lucimar1985/blob/main/img/header_1.png)
 
